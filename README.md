@@ -1,2 +1,2 @@
 # WaffelDB
-Waffel Datenbank Anwendung
+Anwendung zur Bestellung von Waffeln und speicherung in eine MySQL Datenbank
